@@ -1,0 +1,3 @@
+UCI HAR Dataset can be downloaded online:
+
+https://archive.ics.uci.edu/ml/datasets/human+activity+recognition+using+smartphones
